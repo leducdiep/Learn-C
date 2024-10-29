@@ -8,10 +8,10 @@
 *  Declare two integer variables.
 *  Use arithmetic operators (+, -, *, /) and print each result.
 - Example Output:
-``` Enter first number: 5 ```
-``` Enter second number: 3 ```
-``` Addition: 8 ```
-``` Subtraction: 2 ```
-``` Multiplication: 15 ```
-``` Division: 1 ```
+``` Enter first number: 5 
+    Enter second number: 3 
+    Addition: 8 
+    Subtraction: 2 
+    Multiplication: 15 
+    Division: 1 ```
 
