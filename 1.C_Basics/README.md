@@ -1,7 +1,8 @@
 1. Hello World Program
 - Objective: Write a C program to print "Hello, World!" to the console.
 - Expected Output: 
-``` Hello, World! 
+``` 
+    Hello, World! 
 ``` 
 2. Simple Arithmetic Calculator
 - Objective: Write a program that takes two integers as input and performs basic arithmetic operations (addition, subtraction, multiplication, division).
