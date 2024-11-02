@@ -36,7 +36,7 @@ Below are the basic and advanced topics for learning C programming. Ordered from
 Sorting Algorithms: bubble sort, selection sort, insertion sort, merge sort, quicksort.
 Searching: linear and binary search.
 7. Real-World C Projects
-Simple Calculator: write a basic calculator program.
-Student or Book Management: a basic management program.
-Games: small games like a number guessing game, tic-tac-toe.
-Embedded System Applications: control LED, sensors, and basic I/O devices if interested in embedded programming.
+* Simple Calculator: write a basic calculator program.
+* Student or Book Management: a basic management program.
+* Games: small games like a number guessing game, tic-tac-toe.
+* Embedded System Applications: control LED, sensors, and basic I/O devices if interested in embedded programming.
