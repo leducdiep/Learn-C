@@ -1,10 +1,10 @@
-1. Hello World Program
+ex1. Hello World Program
 - Objective: Write a C program to print "Hello, World!" to the console.
 - Expected Output: 
 ``` 
 Hello, World! 
 ``` 
-2. Simple Arithmetic Calculator
+ex2. Simple Arithmetic Calculator
 - Objective: Write a program that takes two integers as input and performs basic arithmetic operations (addition, subtraction, multiplication, division).
 - Requirements:
     * Declare two integer variables.
@@ -19,7 +19,7 @@ Multiplication: 15
 Division: 1
 ```
 
-3. Area of a Circle
+ex3. Area of a Circle
 - Objective: Write a program to calculate the area of a circle based on a given radius.
 - Formula: Area = π * radius * radius (Use 3.14159 for π).
 - Requirements:
@@ -30,7 +30,7 @@ Division: 1
 Enter the radius: 5
 Area of the circle: 78.53975
 ```
-4. Even or Odd Checker
+ex4. Even or Odd Checker
 - Objective: Write a C program to check if an integer is even or odd.
 - Requirements:
     * Use the modulus operator % to determine if a number is even or odd.
@@ -39,7 +39,7 @@ Area of the circle: 78.53975
 Enter a number: 4
 4 is even.
 ```
-5. Simple Age Categorizer
+ex5. Simple Age Categorizer
 - Objective: Write a program that takes an age as input and categorizes it as:
    * Child if age < 13
    * Teen if 13 <= age < 20
@@ -49,7 +49,7 @@ Enter a number: 4
 Enter age: 15
 You are a Teen.
 ```
-6. Temperature Converter (Celsius to Fahrenheit)
+ex6. Temperature Converter (Celsius to Fahrenheit)
 - Objective: Write a C program to convert temperature from Celsius to Fahrenheit.
 - Formula: Fahrenheit = (Celsius * 9/5) + 32.
 - Example Output:
@@ -57,7 +57,7 @@ You are a Teen.
 Enter temperature in Celsius: 25
 Temperature in Fahrenheit: 77
 ```
-7. Days to Years, Weeks, and Days Converter
+ex7. Days to Years, Weeks, and Days Converter
 - Objective: Write a program that converts a given number of days into years, weeks, and remaining days.
 - Requirements:
     * Assume 1 year = 365 days, 1 week = 7 days.
