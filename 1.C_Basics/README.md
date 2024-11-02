@@ -41,9 +41,9 @@ Enter a number: 4
 ```
 5. Simple Age Categorizer
 - Objective: Write a program that takes an age as input and categorizes it as:
-- Child if age < 13
-- Teen if 13 <= age < 20
-- Adult if age >= 20
+   * Child if age < 13
+   * Teen if 13 <= age < 20
+   * Adult if age >= 20
 - Example Output:
 ```
 Enter age: 15
